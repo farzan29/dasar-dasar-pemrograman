@@ -11,7 +11,7 @@ int main()
   z= x+y;
   cout << x << "+" << y << "-" << z << endl;
   if (z>=0) {
-    cout << "nilai" << z << "adalah nilai positif" <<ebdl;
+    cout << "nilai" << z << "adalah nilai positif" <<endl;
   }else if (z<0) {
     cout << "nilai" << z << "adalah nilai negatif" <<endl;
   }
